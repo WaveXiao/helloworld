@@ -1,4 +1,0 @@
-在要创建项目托管的文件夹里打开git bash
-创建文件
-git init
-git add hellogithub.txt
